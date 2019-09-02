@@ -1,0 +1,24 @@
+.body__wrapper {
+	margin: 0 auto;
+	width: 500px;
+}
+div > h3 {
+	text-align: center;
+}
+.information__section > h3 {
+	background-color: #e0e0e0;
+	padding: 5px;
+	border: 1px solid black;
+}
+.remove__border > H3 {
+	border: none;
+}
+.form__item {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+.form__item > input {
+	width: 70%;
+	padding: 5px;
+}
